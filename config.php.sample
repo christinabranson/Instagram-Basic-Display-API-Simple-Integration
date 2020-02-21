@@ -1,0 +1,4 @@
+<?php
+define('IG_APP_ID', '');
+define('IG_APP_SECRET', '');
+define('IG_APP_CALLBACK', '');
